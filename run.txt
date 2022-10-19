@@ -1,0 +1,2 @@
+to run database $ docker compose up -d db
+to run app $ docker compose up --build pythonapp
